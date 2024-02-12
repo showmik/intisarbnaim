@@ -1,25 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>সফটওয়্যার/এপ ডেভেলপমেন্ট - project - ইনতিসার বিন নাইম</title>
-        <link>intisarbnaim/bn/projects/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0/%E0%A6%8F%E0%A6%AA-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/</link>
+        <link>https://intisarbnaim.com/bn/projects/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0/%E0%A6%8F%E0%A6%AA-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/</link>
         <description>সফটওয়্যার/এপ ডেভেলপমেন্ট - project - ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><atom:link href="intisarbnaim/bn/projects/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0/%E0%A6%8F%E0%A6%AA-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><atom:link href="https://intisarbnaim.com/bn/projects/%E0%A6%B8%E0%A6%AB%E0%A6%9F%E0%A6%93%E0%A7%9F%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B0/%E0%A6%8F%E0%A6%AA-%E0%A6%A1%E0%A7%87%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%AA%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/" rel="self" type="application/rss+xml" /><item>
     <title>Furigana Tool</title>
-    <link>intisarbnaim/bn/furigana-tool/</link>
+    <link>https://intisarbnaim.com/bn/furigana-tool/</link>
     <pubDate>Wed, 01 Sep 2021 20:13:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>intisarbnaim/bn/furigana-tool/</guid>
+    <guid>https://intisarbnaim.com/bn/furigana-tool/</guid>
     <description><![CDATA[Furigana Tool automates the process of writing HTML code for Furigana with ruby syntax. It uses a modified version of the Gem library and adds a User Interface to it.
 This tool was designed to work in conjunction with the HTML Table Generator which I created for another project.
 The Ruby Syntax &ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters.]]></description>
 </item>
 <item>
     <title>HTML Table Generator</title>
-    <link>intisarbnaim/bn/html-table-generator/</link>
+    <link>https://intisarbnaim.com/bn/html-table-generator/</link>
     <pubDate>Sun, 29 Aug 2021 20:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>intisarbnaim/bn/html-table-generator/</guid>
+    <guid>https://intisarbnaim.com/bn/html-table-generator/</guid>
     <description><![CDATA[HTML Table Generator is a WPF application that takes user input and generates HTML table code, making the process much easier.
 Backstory I was working on an ebook file that I planned to read on my Kindle. The file had numerous Japanese dialogues and vocabularies that needed to be turned into an HTML table for the kindle to display properly. I also had to use HTML ruby syntax to ensure that it supported Furigana.]]></description>
 </item>
