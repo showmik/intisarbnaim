@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Projects - project - Intisar Bin Naim</title>
+        <link>https://intisarbnaim.github.io/projects/</link>
+        <description>Projects - project - Intisar Bin Naim</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>Journey to Fluent Japanese</title>
+    <link>https://intisarbnaim.github.io/projects/journey-to-fluent-japanese/</link>
+    <pubDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/projects/journey-to-fluent-japanese/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Graphics Design</title>
+    <link>https://intisarbnaim.github.io/projects/graphics-design/</link>
+    <pubDate>Mon, 03 Oct 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/projects/graphics-design/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Game Development</title>
+    <link>https://intisarbnaim.github.io/projects/game-development/</link>
+    <pubDate>Wed, 15 Apr 2020 23:14:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/projects/game-development/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>YouTube</title>
+    <link>https://intisarbnaim.github.io/projects/youtube/</link>
+    <pubDate>Thu, 24 Oct 2019 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/projects/youtube/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Software/App Development</title>
+    <link>https://intisarbnaim.github.io/projects/software/app-development/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/projects/software/app-development/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

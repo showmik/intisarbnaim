@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>YouTube - project - ইনতিসার বিন নাইম</title>
+        <link>https://intisarbnaim.github.io/bn/projects/youtube/</link>
+        <description>YouTube - project - ইনতিসার বিন নাইম</description>
+        <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Thu, 24 Oct 2019 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/bn/projects/youtube/" rel="self" type="application/rss+xml" /><item>
+    <title>2D Platformer Project (03) - Game Development Is Hard…or Is It?</title>
+    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-03/</link>
+    <pubDate>Thu, 24 Oct 2019 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-03/</guid>
+    <description><![CDATA[Description &ldquo;It’s been some time since I uploaded the last devlog. I have been busy with my studies and I didn’t have much time to work on my game. But I was still able to get some work done. In this video, I talked about what I did in the last one month and how overwhelmed I felt at some point.&rdquo;
+Video ]]></description>
+</item>
+<item>
+    <title>2D Platformer Project (02) - Identity Crisis</title>
+    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-02/</link>
+    <pubDate>Mon, 16 Sep 2019 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-02/</guid>
+    <description><![CDATA[Description &ldquo;Welcome to the second devlog of my first indie game.&rdquo;
+Video ]]></description>
+</item>
+<item>
+    <title>2D Platformer Project (01) - Setting Up Player Movement</title>
+    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-01/</link>
+    <pubDate>Thu, 05 Sep 2019 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-01/</guid>
+    <description><![CDATA[বিবরণ &ldquo;Finally I have mustered up the courage to start working on my own game.&rdquo;
+ভিডিও ]]></description>
+</item>
+</channel>
+</rss>

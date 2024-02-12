@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Computer Graphics - Category - Intisar Bin Naim</title>
+        <link>https://intisarbnaim.github.io/categories/computer-graphics/</link>
+        <description>Computer Graphics - Category - Intisar Bin Naim</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/categories/computer-graphics/" rel="self" type="application/rss+xml" /><item>
+    <title>Computer Graphics</title>
+    <link>https://intisarbnaim.github.io/computer-graphics/</link>
+    <pubDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.github.io/computer-graphics/</guid>
+    <description><![CDATA[01. What is Computer Graphics Computer graphics is a field of study concerned with the generation and manipulation of images, videos, and animations using computers and digital technologies.
+Applications of Computer Graphics Computer Graphics has numerous applications, some of which are listed below:
+Graphical User Interface (GUI) Business Presentation Graphics Cartography (ম্যাপ আঁকানো) Weather Maps Satellite Imaging Photo Enhancement Medical Imaging Engineering Drawings (থ্রিডি মডেলিং, CAD ইত্যাদি) Typography Architecture Art (গ্রাফিক্স ডিজাইনিং, ডিজিটাল আর্ট) Training (সিমুলেশনের মাধ্যমে প্লেন চালানো শেখানো) Entertainment (ভিডিও গেমস, মুভির ভিজুয়াল ইফেক্টস ইত্যাদি) Simulation and Modeling 02.]]></description>
+</item>
+</channel>
+</rss>
