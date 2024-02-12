@@ -1,34 +1,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Company Profile - Tag - Intisar Bin Naim</title>
-        <link>https://intisarbnaim.github.io/tags/company-profile/</link>
+        <link>intisarbnaim/tags/company-profile/</link>
         <description>Company Profile - Tag - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 03 Oct 2022 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/tags/company-profile/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 03 Oct 2022 23:15:57 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/tags/company-profile/" rel="self" type="application/rss+xml" /><item>
     <title>Gwandalan Hotel - Company Profile</title>
-    <link>https://intisarbnaim.github.io/gwandalan-hotel_brochure/</link>
+    <link>intisarbnaim/gwandalan-hotel_brochure/</link>
     <pubDate>Mon, 03 Oct 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/gwandalan-hotel_brochure/</guid>
+    <guid>intisarbnaim/gwandalan-hotel_brochure/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/gwandalan-hotel/gwandalan_post_cover.webp" referrerpolicy="no-referrer">
             </div>Preview ]]></description>
 </item>
 <item>
     <title>Catalyst Finalcial - Company Profile</title>
-    <link>https://intisarbnaim.github.io/catalyst-financial_company-profile/</link>
+    <link>intisarbnaim/catalyst-financial_company-profile/</link>
     <pubDate>Tue, 20 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/catalyst-financial_company-profile/</guid>
+    <guid>intisarbnaim/catalyst-financial_company-profile/</guid>
     <description><![CDATA[Description This is a company profile I designed for the &lsquo;Catalyst Financial&rsquo;.
 Preview ]]></description>
 </item>
 <item>
     <title>Milkshania - Company Profile &amp; Presentation</title>
-    <link>https://intisarbnaim.github.io/milkshania_presentation/</link>
+    <link>intisarbnaim/milkshania_presentation/</link>
     <pubDate>Mon, 19 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/milkshania_presentation/</guid>
+    <guid>intisarbnaim/milkshania_presentation/</guid>
     <description><![CDATA[Preview ]]></description>
 </item>
 </channel>

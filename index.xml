@@ -1,70 +1,70 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Intisar Bin Naim</title>
-        <link>https://intisarbnaim.github.io/</link>
+        <link>intisarbnaim/</link>
         <description>Hi, I&#39;m Intisar! Welcome to my personal blog. I enjoy talking about design and development.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
             <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</lastBuildDate>
-            <atom:link href="https://intisarbnaim.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="intisarbnaim/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Computer Graphics</title>
-    <link>https://intisarbnaim.github.io/computer-graphics/</link>
+    <link>intisarbnaim/computer-graphics/</link>
     <pubDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/computer-graphics/</guid>
+    <guid>intisarbnaim/computer-graphics/</guid>
     <description><![CDATA[01. What is Computer Graphics Computer graphics is a field of study concerned with the generation and manipulation of images, videos, and animations using computers and digital technologies.
 Applications of Computer Graphics Computer Graphics has numerous applications, some of which are listed below:
 Graphical User Interface (GUI) Business Presentation Graphics Cartography (ম্যাপ আঁকানো) Weather Maps Satellite Imaging Photo Enhancement Medical Imaging Engineering Drawings (থ্রিডি মডেলিং, CAD ইত্যাদি) Typography Architecture Art (গ্রাফিক্স ডিজাইনিং, ডিজিটাল আর্ট) Training (সিমুলেশনের মাধ্যমে প্লেন চালানো শেখানো) Entertainment (ভিডিও গেমস, মুভির ভিজুয়াল ইফেক্টস ইত্যাদি) Simulation and Modeling 02.]]></description>
 </item>
 <item>
     <title>Journey to Fluent Japanese (01) - The Start</title>
-    <link>https://intisarbnaim.github.io/journey-to-fluent-japanese-01/</link>
+    <link>intisarbnaim/journey-to-fluent-japanese-01/</link>
     <pubDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/journey-to-fluent-japanese-01/</guid>
+    <guid>intisarbnaim/journey-to-fluent-japanese-01/</guid>
     <description><![CDATA[Introduction I finally decided to learn Japanese seriously. I used to watch anime a lot, which is how I became interested in the language. My first attempt at learning Japanese was in 2017, six years ago. But I didn&rsquo;t get very far and eventually gave up after a few days. After my first attempt, I did try three more times to learn the language, but the results were all the same.]]></description>
 </item>
 <item>
     <title>Gwandalan Hotel - Company Profile</title>
-    <link>https://intisarbnaim.github.io/gwandalan-hotel_brochure/</link>
+    <link>intisarbnaim/gwandalan-hotel_brochure/</link>
     <pubDate>Mon, 03 Oct 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/gwandalan-hotel_brochure/</guid>
+    <guid>intisarbnaim/gwandalan-hotel_brochure/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/gwandalan-hotel/gwandalan_post_cover.webp" referrerpolicy="no-referrer">
             </div>Preview ]]></description>
 </item>
 <item>
     <title>Catalyst Finalcial - Company Profile</title>
-    <link>https://intisarbnaim.github.io/catalyst-financial_company-profile/</link>
+    <link>intisarbnaim/catalyst-financial_company-profile/</link>
     <pubDate>Tue, 20 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/catalyst-financial_company-profile/</guid>
+    <guid>intisarbnaim/catalyst-financial_company-profile/</guid>
     <description><![CDATA[Description This is a company profile I designed for the &lsquo;Catalyst Financial&rsquo;.
 Preview ]]></description>
 </item>
 <item>
     <title>Milkshania - Company Profile &amp; Presentation</title>
-    <link>https://intisarbnaim.github.io/milkshania_presentation/</link>
+    <link>intisarbnaim/milkshania_presentation/</link>
     <pubDate>Mon, 19 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/milkshania_presentation/</guid>
+    <guid>intisarbnaim/milkshania_presentation/</guid>
     <description><![CDATA[Preview ]]></description>
 </item>
 <item>
     <title>Alberta Health Services - Intensive Outpatient Program Manual</title>
-    <link>https://intisarbnaim.github.io/ahs_manuaul/</link>
+    <link>intisarbnaim/ahs_manuaul/</link>
     <pubDate>Sun, 18 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/ahs_manuaul/</guid>
+    <guid>intisarbnaim/ahs_manuaul/</guid>
     <description><![CDATA[Preview ]]></description>
 </item>
 <item>
     <title>Let&#39;s Learn C# (03) — What is C#?</title>
-    <link>https://intisarbnaim.github.io/cs-03-what-is-c-sharp/</link>
+    <link>intisarbnaim/cs-03-what-is-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/cs-03-what-is-c-sharp/</guid>
+    <guid>intisarbnaim/cs-03-what-is-c-sharp/</guid>
     <description><![CDATA[What is C#? C# is a general-purpose, multi-paradigm, type-safe programming language that runs on the .NET platform.
 Although the definition is short, there are several terms that need a little discussion.
 General Purpose Language Here, the term &lsquo;general purpose&rsquo; refers to the ability to do a wide range of tasks using a single language. Here&rsquo;s a list of things you can do once you&rsquo;ve learned C#:
@@ -72,28 +72,28 @@ Web Application Development: Using C#, you can easily create dynamic websites an
 </item>
 <item>
     <title>Let&#39;s Learn C# (02) — Why C#?</title>
-    <link>https://intisarbnaim.github.io/cs-02-why-c-sharp/</link>
+    <link>intisarbnaim/cs-02-why-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/cs-02-why-c-sharp/</guid>
+    <guid>intisarbnaim/cs-02-why-c-sharp/</guid>
     <description><![CDATA[Why learn C# when there are so many other programming languages? First of all, congratulations on choosing a popular language such as C#. Rest assured you will never regret your decision to learn the language. If you want to become a good .NET developer or work with Unity, there is no alternative to C#.
 The following are other reasons why learning C# is a good idea:
 1. C# code is easy to read As a developer, you will spend far more time reading code than writing it.]]></description>
 </item>
 <item>
     <title>Let’s Learn C# (01) — Journey Starts</title>
-    <link>https://intisarbnaim.github.io/cs-01-journey-starts/</link>
+    <link>intisarbnaim/cs-01-journey-starts/</link>
     <pubDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/cs-01-journey-starts/</guid>
+    <guid>intisarbnaim/cs-01-journey-starts/</guid>
     <description><![CDATA[Some Words Years ago, I once tried teaching programming to one of my younger brothers. He was interested in game development with Unity, and I am also comfortable with C#, so I started with this language. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra.]]></description>
 </item>
 <item>
     <title>Klatt Media Group - Brochure</title>
-    <link>https://intisarbnaim.github.io/klatt-media-group_brochure/</link>
+    <link>intisarbnaim/klatt-media-group_brochure/</link>
     <pubDate>Mon, 12 Sep 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/klatt-media-group_brochure/</guid>
+    <guid>intisarbnaim/klatt-media-group_brochure/</guid>
     <description><![CDATA[Preview ]]></description>
 </item>
 </channel>

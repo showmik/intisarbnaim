@@ -1,63 +1,63 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>GameDev - ট্যাগ - ইনতিসার বিন নাইম</title>
-        <link>https://intisarbnaim.github.io/bn/tags/gamedev/</link>
+        <link>intisarbnaim/bn/tags/gamedev/</link>
         <description>GameDev - ট্যাগ - ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Wed, 15 Apr 2020 23:14:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/bn/tags/gamedev/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Wed, 15 Apr 2020 23:14:57 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/bn/tags/gamedev/" rel="self" type="application/rss+xml" /><item>
     <title>Tetris Drift</title>
-    <link>https://intisarbnaim.github.io/bn/tetris-drift/</link>
+    <link>intisarbnaim/bn/tetris-drift/</link>
     <pubDate>Wed, 15 Apr 2020 23:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/tetris-drift/</guid>
+    <guid>intisarbnaim/bn/tetris-drift/</guid>
     <description><![CDATA[Tetris Drift is a Tetris 🧱 clone.
 This game was made for learning purposes along with these other clones –
 Crashy FO Arrogant Invader স্ক্রিনশট ডাউনলোড Tetris Drift ]]></description>
 </item>
 <item>
     <title>Arrogant Invader</title>
-    <link>https://intisarbnaim.github.io/bn/arrogant-invader/</link>
+    <link>intisarbnaim/bn/arrogant-invader/</link>
     <pubDate>Wed, 15 Apr 2020 22:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/arrogant-invader/</guid>
+    <guid>intisarbnaim/bn/arrogant-invader/</guid>
     <description><![CDATA[Arrogant Invader is my own version of the game Space Invaders 👾
 This game was made for learning purposes along with these other clones –
 Tetris Drift Crashy FO. স্ক্রিনশট ডাউনলোড Arrogant Invader v1.0.0 ]]></description>
 </item>
 <item>
     <title>Crahy FO</title>
-    <link>https://intisarbnaim.github.io/bn/crashy-fo/</link>
+    <link>intisarbnaim/bn/crashy-fo/</link>
     <pubDate>Wed, 15 Apr 2020 21:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/crashy-fo/</guid>
+    <guid>intisarbnaim/bn/crashy-fo/</guid>
     <description><![CDATA[Crashy FO is a Flappy Bird clone where you play as FO the UFO 🛸 instead of Faby the bird.
 I made this game for learning purposes along with these other clones –
 Tetris Drift Arrogant Invader স্ক্রিনশট ডাউনলোড Crashy FO v1.0.0 ]]></description>
 </item>
 <item>
     <title>2D Platformer Project (03) - Game Development Is Hard…or Is It?</title>
-    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-03/</link>
+    <link>intisarbnaim/bn/2d-platformer-project-03/</link>
     <pubDate>Thu, 24 Oct 2019 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-03/</guid>
+    <guid>intisarbnaim/bn/2d-platformer-project-03/</guid>
     <description><![CDATA[Description &ldquo;It’s been some time since I uploaded the last devlog. I have been busy with my studies and I didn’t have much time to work on my game. But I was still able to get some work done. In this video, I talked about what I did in the last one month and how overwhelmed I felt at some point.&rdquo;
 Video ]]></description>
 </item>
 <item>
     <title>2D Platformer Project (02) - Identity Crisis</title>
-    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-02/</link>
+    <link>intisarbnaim/bn/2d-platformer-project-02/</link>
     <pubDate>Mon, 16 Sep 2019 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-02/</guid>
+    <guid>intisarbnaim/bn/2d-platformer-project-02/</guid>
     <description><![CDATA[Description &ldquo;Welcome to the second devlog of my first indie game.&rdquo;
 Video ]]></description>
 </item>
 <item>
     <title>2D Platformer Project (01) - Setting Up Player Movement</title>
-    <link>https://intisarbnaim.github.io/bn/2d-platformer-project-01/</link>
+    <link>intisarbnaim/bn/2d-platformer-project-01/</link>
     <pubDate>Thu, 05 Sep 2019 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/2d-platformer-project-01/</guid>
+    <guid>intisarbnaim/bn/2d-platformer-project-01/</guid>
     <description><![CDATA[বিবরণ &ldquo;Finally I have mustered up the courage to start working on my own game.&rdquo;
 ভিডিও ]]></description>
 </item>

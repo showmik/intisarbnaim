@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Japanese - Tag - Intisar Bin Naim</title>
-        <link>https://intisarbnaim.github.io/tags/japanese/</link>
+        <link>intisarbnaim/tags/japanese/</link>
         <description>Japanese - Tag - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/tags/japanese/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/tags/japanese/" rel="self" type="application/rss+xml" /><item>
     <title>Journey to Fluent Japanese (01) - The Start</title>
-    <link>https://intisarbnaim.github.io/journey-to-fluent-japanese-01/</link>
+    <link>intisarbnaim/journey-to-fluent-japanese-01/</link>
     <pubDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/journey-to-fluent-japanese-01/</guid>
+    <guid>intisarbnaim/journey-to-fluent-japanese-01/</guid>
     <description><![CDATA[Introduction I finally decided to learn Japanese seriously. I used to watch anime a lot, which is how I became interested in the language. My first attempt at learning Japanese was in 2017, six years ago. But I didn&rsquo;t get very far and eventually gave up after a few days. After my first attempt, I did try three more times to learn the language, but the results were all the same.]]></description>
 </item>
 <item>
     <title>Furigana Tool</title>
-    <link>https://intisarbnaim.github.io/furigana-tool/</link>
+    <link>intisarbnaim/furigana-tool/</link>
     <pubDate>Wed, 01 Sep 2021 20:13:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/furigana-tool/</guid>
+    <guid>intisarbnaim/furigana-tool/</guid>
     <description><![CDATA[Furigana Tool automates the process of writing HTML code for Furigana with ruby syntax. It uses a modified version of the Gem library and adds a User Interface to it.
 This tool was designed to work in conjunction with the HTML Table Generator which I created for another project.
 The Ruby Syntax &ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters.]]></description>
 </item>
 <item>
     <title>HTML Table Generator</title>
-    <link>https://intisarbnaim.github.io/html-table-generator/</link>
+    <link>intisarbnaim/html-table-generator/</link>
     <pubDate>Sun, 29 Aug 2021 20:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/html-table-generator/</guid>
+    <guid>intisarbnaim/html-table-generator/</guid>
     <description><![CDATA[HTML Table Generator is a WPF application that takes user input and generates HTML table code, making the process much easier.
 Backstory I was working on an ebook file that I planned to read on my Kindle. The file had numerous Japanese dialogues and vocabularies that needed to be turned into an HTML table for the kindle to display properly. I also had to use HTML ruby syntax to ensure that it supported Furigana.]]></description>
 </item>

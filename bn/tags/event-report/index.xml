@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Event Report - ট্যাগ - ইনতিসার বিন নাইম</title>
-        <link>https://intisarbnaim.github.io/bn/tags/event-report/</link>
+        <link>intisarbnaim/bn/tags/event-report/</link>
         <description>Event Report - ট্যাগ - ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Thu, 31 Mar 2022 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/bn/tags/event-report/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Thu, 31 Mar 2022 23:15:57 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/bn/tags/event-report/" rel="self" type="application/rss+xml" /><item>
     <title>Mighty Dog Roofing - Post Event Report</title>
-    <link>https://intisarbnaim.github.io/bn/mdr_event-report/</link>
+    <link>intisarbnaim/bn/mdr_event-report/</link>
     <pubDate>Thu, 31 Mar 2022 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/mdr_event-report/</guid>
+    <guid>intisarbnaim/bn/mdr_event-report/</guid>
     <description><![CDATA[Preview ]]></description>
 </item>
 </channel>

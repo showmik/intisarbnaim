@@ -1,24 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>প্রোগ্রামিং - ট্যাগ - ইনতিসার বিন নাইম</title>
-        <link>https://intisarbnaim.github.io/bn/tags/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82/</link>
+        <link>intisarbnaim/bn/tags/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82/</link>
         <description>প্রোগ্রামিং - ট্যাগ - ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/bn/tags/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/bn/tags/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82/" rel="self" type="application/rss+xml" /><item>
     <title>আসুন C# শিখি (04) — .NET এর বেসিক</title>
-    <link>https://intisarbnaim.github.io/bn/cs-04-dotnet-basics/</link>
+    <link>intisarbnaim/bn/cs-04-dotnet-basics/</link>
     <pubDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/cs-04-dotnet-basics/</guid>
+    <guid>intisarbnaim/bn/cs-04-dotnet-basics/</guid>
     <description><![CDATA[.NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার &ldquo;.NET&rdquo; শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।
 .NET Platform .NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .]]></description>
 </item>
 <item>
     <title>আসুন C# শিখি (03) — C# কি?</title>
-    <link>https://intisarbnaim.github.io/bn/cs-03-what-is-c-sharp/</link>
+    <link>intisarbnaim/bn/cs-03-what-is-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/cs-03-what-is-c-sharp/</guid>
+    <guid>intisarbnaim/bn/cs-03-what-is-c-sharp/</guid>
     <description><![CDATA[C# কি? C# (সি শার্প) হচ্ছে একটা জেনারেল পারপাজ, মাল্টি-প্যারাডাইম, টাইপ সেফ প্রোগ্রামিং ল্যাঙ্গুয়েজ যা .NET প্ল্যাটফর্মে রান করে।
 সংজ্ঞাটা ছোট হলেও এর মধ্যে বেশ কিছু টার্ম রয়েছে যা নিয়ে একটু আলোচনা করা দরকার।
 জেনারেল পারপাজ ল্যাঙ্গুয়েজ এখানে জেনারেল পারপাজ বলতে বুঝাচ্ছে একটা ল্যাঙ্গুয়েজ ব্যবহার করেই সব ধরণের কাজ করতে পারা। C# শেখার পর আপনি যা যা করতে পারবেনঃ
@@ -26,20 +26,20 @@
 </item>
 <item>
     <title>আসুন C# শিখি (02) — কেন C#?</title>
-    <link>https://intisarbnaim.github.io/bn/cs-02-why-c-sharp/</link>
+    <link>intisarbnaim/bn/cs-02-why-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/cs-02-why-c-sharp/</guid>
+    <guid>intisarbnaim/bn/cs-02-why-c-sharp/</guid>
     <description><![CDATA[দুনিয়ায় এত প্রোগ্রামিং ল্যাঙ্গুয়েজ থাকতে C# কেন শিখবেন? প্রথমেই আপনাকে অভিনন্দন জানাই শেখার জন্য C# এর মতো জনপ্রিয় একটা ভাষা বেছে নিয়েছেন। নিশ্চিত থাকুন আপনি আপনার এ সিদ্ধান্তে কোনোদিনই হতাশ হবেন না। একজন ভালো ডট নেট ডেভেলপার হতে হলে অথবা Unity গেম ইঞ্জিন নিয়ে কাজ করতে চাইলে C#-এর কোনো বিকল্প নেই।
 এছাড়াও নিচের কারণগুলোর কারণে আপনার C# শেখা উচিতঃ
 1. C#-এ লেখা কোড সহজেই পড়ে বুঝা যায় একজন ডেভেলপার হিসেবে আপনাকে যতটা না কোড লিখতে হবে, তার চেয়ে অনেক বেশি সময় কাটাতে হবে কোড পড়ে। এখন কোডের পঠনযোগ্যতা যদি খারাপ হয় তাহলে সেটা একটা বড় সমস্যা হয়ে দাঁড়াবে। তবে এ নিয়ে আপনাকে দুশ্চিন্তা করতে হবে না কারণ C# খুব সহজ, মার্জিত এবং কম্প্যাক্ট একটা ভাষা।]]></description>
 </item>
 <item>
     <title>আসুন C# শিখি (01) — জার্নির শুরু</title>
-    <link>https://intisarbnaim.github.io/bn/cs-01-journey-starts/</link>
+    <link>intisarbnaim/bn/cs-01-journey-starts/</link>
     <pubDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/cs-01-journey-starts/</guid>
+    <guid>intisarbnaim/bn/cs-01-journey-starts/</guid>
     <description><![CDATA[কিছু কথা অনেক দিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে Unity-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে আমি একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চায়তো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চায়তো। অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই; বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না &#x1f605;।]]></description>
 </item>
 </channel>

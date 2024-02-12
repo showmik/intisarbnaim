@@ -1,33 +1,33 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>জাপানিজ - ট্যাগ - ইনতিসার বিন নাইম</title>
-        <link>https://intisarbnaim.github.io/bn/tags/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%9C/</link>
+        <link>intisarbnaim/bn/tags/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%9C/</link>
         <description>জাপানিজ - ট্যাগ - ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.github.io/bn/tags/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%9C/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="intisarbnaim/bn/tags/%E0%A6%9C%E0%A6%BE%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%9C/" rel="self" type="application/rss+xml" /><item>
     <title>Journey to Fluent Japanese (01) - The Start</title>
-    <link>https://intisarbnaim.github.io/bn/journey-to-fluent-japanese-01/</link>
+    <link>intisarbnaim/bn/journey-to-fluent-japanese-01/</link>
     <pubDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/journey-to-fluent-japanese-01/</guid>
+    <guid>intisarbnaim/bn/journey-to-fluent-japanese-01/</guid>
     <description><![CDATA[সূচনা অবশেষে সিদ্ধান্ত নিলাম এখন থেকে গুরুত্ব সহকারে জাপানি ভাষা শিখব। একসময় প্রচুর অ্যানিমে দেখতাম আমি, জাপানি ভাষার প্রতি আগ্রহী হয়ে উঠার পেছনে এটাই একটা কারণ। জাপানিজ শেখার প্রথম চেষ্টা করেছিলাম ছয় বছর আগে, ২০১৭ সালে। কিন্তু খুব বেশিদূর আগাতে পারিনি তখন, কয়েকদিনের মধ্যেই হাল ছেড়ে দিয়েছিলাম। প্রথম প্রচেষ্টার পর গত কয়েক বছরে আরও তিনবার চেষ্টা করেছিলাম ভাষাটা আয়ত্ব করার, কিন্তু ফলাফল প্রথমবারের মতই ছিল। এই ব্যর্থতার জন্য আমি আমার সিরিয়াসনেসের অভাব এবং প্রোক্র্যাস্টিনেশন করাকে দায়ী করব। কিন্তু শেষ পর্যন্ত ঠিক করলাম ভাষা শিক্ষাকে এখন থেকে সিরিয়াসলি নিব।]]></description>
 </item>
 <item>
     <title>Furigana Tool</title>
-    <link>https://intisarbnaim.github.io/bn/furigana-tool/</link>
+    <link>intisarbnaim/bn/furigana-tool/</link>
     <pubDate>Wed, 01 Sep 2021 20:13:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/furigana-tool/</guid>
+    <guid>intisarbnaim/bn/furigana-tool/</guid>
     <description><![CDATA[Furigana Tool automates the process of writing HTML code for Furigana with ruby syntax. It uses a modified version of the Gem library and adds a User Interface to it.
 This tool was designed to work in conjunction with the HTML Table Generator which I created for another project.
 The Ruby Syntax &ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters.]]></description>
 </item>
 <item>
     <title>HTML Table Generator</title>
-    <link>https://intisarbnaim.github.io/bn/html-table-generator/</link>
+    <link>intisarbnaim/bn/html-table-generator/</link>
     <pubDate>Sun, 29 Aug 2021 20:14:57 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.github.io/bn/html-table-generator/</guid>
+    <guid>intisarbnaim/bn/html-table-generator/</guid>
     <description><![CDATA[HTML Table Generator is a WPF application that takes user input and generates HTML table code, making the process much easier.
 Backstory I was working on an ebook file that I planned to read on my Kindle. The file had numerous Japanese dialogues and vocabularies that needed to be turned into an HTML table for the kindle to display properly. I also had to use HTML ruby syntax to ensure that it supported Furigana.]]></description>
 </item>
