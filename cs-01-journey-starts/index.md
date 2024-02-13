@@ -1,22 +1,20 @@
 # Let’s Learn C# (01) — Journey Starts
 
 
-## Some Words
+## Before We Start
 
-Years ago, I once tried teaching programming to one of my younger brothers. He was interested in game development with [Unity](https://unity.com/), and I am also comfortable with C#, so I started with this language. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra. But I have a habit of going deep into something when I start to teach it to others. I could tell he didn't like this bad habit of mine at all :sweat_smile:.
+A while ago, I tried teaching one of my junior brothers how to program because he wanted to make games with Unity. I know C# pretty well, so we started with that. But he really wanted all the learning materials to be in Bangla and very straight to the point. I usually like to explain things in detail, but I could tell he didn't enjoy that much.
 
-## Why Writing
+## Why I'm Writing This
 
-I've learned from experience that beginners in any subject dislike excessive talking. I'm not sure about other topics, but I can't blame them for having this type of mindset when it comes to programming. You really don't need to know much about programming to get started, at least not at the beginning.
+I've noticed that beginners don't like it when someone talks too much about a topic. This is especially true for programming. When you're just starting, you don't need to know everything. Like me, I just wanted to make a game and learned only what I needed to make it happen. As I got better, I learned more advanced stuff.
 
-Consider my personal experience: I did not learn programming solely for the purpose of learning programming. I just wanted to make a game, and I learned to program since it was needed. I only learned what was absolutely necessary. Later, after gaining some experience, the advanced stuffs were gradually mastered.
+This made me want to write about C# in Bangla, keeping things short and simple. I promised my junior I would do this. I couldn't start writing right away because I was busy, but now I have the time.
 
-From this realization, I promised that brother of mine, I will start writing Bangla content on C# myself. The content will be short and to the point that anyone can easily follow it. I was not able to start writing due to a lack of time and opportunity, but now the time has come.
+Writing about C# is not just about keeping my promise. I also think teaching is a great way to learn better. If I can explain C# well to others, it means I understand it well myself. I want to learn more and get better at C# by writing about it.
 
-And it's not simply because of the promise; there's another reason I'd like to start writing about C#. I believe that teaching others is one of the best methods to learn something. If you can't teach others what you know, you know you're lacking in it. I want to overcome my lacking and learn more about C#. This is the goal of my writing adventure.
+## Wrapping Up
 
-## Conclusion
+I'm not a C# expert, and I'll have to look things up as I write. I might not get everything right, so please tell me if you find mistakes. You can contact me directly on [Facebook](https://facebook.com/intisarbnaim) or by [email](mailto:intisarbnaim@gmail.com). Also, feel free to contact me if you have any other questions.
 
-Needless to say, I'm no C# guru. I’ll have to do a lot of research before writing. It is also foolish to assume that the writings will be 100% accurate. Please let me know if you find any mistakes in my writing. You can contact me directly on [Facebook](https://facebook.com/intisarbnaim) or by [email](mailto:intisarbnaim@gmail.com). Also, feel free to contact me if you have any other questions.
-
-In the end, I hope this writing journey of mine will be of some use to you.
+I hope that sharing what I learn will help you too.
