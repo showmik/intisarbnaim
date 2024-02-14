@@ -11,8 +11,6 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/categories/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/categories/computer-graphics/</loc><lastmod>2023-02-04T15:12:03&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://intisarbnaim.com/computer-graphics/</loc><lastmod>2023-02-04T15:12:03&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://intisarbnaim.com/</loc><lastmod>2024-02-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
@@ -21,15 +19,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://intisarbnaim.com/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/posts/</loc><lastmod>2024-02-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/posts/"
                     /></url><url>
             <loc>https://intisarbnaim.com/tags/japanese/</loc><lastmod>2023-01-06T23:15:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://intisarbnaim.com/projects/journey-to-fluent-japanese/</loc><lastmod>2023-01-06T23:15:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
@@ -49,6 +38,15 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://intisarbnaim.com/journey-to-fluent-japanese-01/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/posts/</loc><lastmod>2024-02-13T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/posts/"
                     /></url><url>
             <loc>https://intisarbnaim.com/projects/</loc><lastmod>2023-01-06T23:15:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

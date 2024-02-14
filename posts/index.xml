@@ -4,17 +4,7 @@
         <link>https://intisarbnaim.com/posts/</link>
         <description>All Posts | Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Computer Graphics</title>
-    <link>https://intisarbnaim.com/computer-graphics/</link>
-    <pubDate>Sat, 04 Feb 2023 15:12:03 &#43;0600</pubDate>
-    <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/computer-graphics/</guid>
-    <description><![CDATA[01. What is Computer Graphics Computer graphics is a field of study concerned with the generation and manipulation of images, videos, and animations using computers and digital technologies.
-Applications of Computer Graphics Computer Graphics has numerous applications, some of which are listed below:
-Graphical User Interface (GUI) Business Presentation Graphics Cartography (ম্যাপ আঁকানো) Weather Maps Satellite Imaging Photo Enhancement Medical Imaging Engineering Drawings (থ্রিডি মডেলিং, CAD ইত্যাদি) Typography Architecture Art (গ্রাফিক্স ডিজাইনিং, ডিজিটাল আর্ট) Training (সিমুলেশনের মাধ্যমে প্লেন চালানো শেখানো) Entertainment (ভিডিও গেমস, মুভির ভিজুয়াল ইফেক্টস ইত্যাদি) Simulation and Modeling 02.]]></description>
-</item>
-<item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Journey to Fluent Japanese (01) - The Start</title>
     <link>https://intisarbnaim.com/journey-to-fluent-japanese-01/</link>
     <pubDate>Fri, 06 Jan 2023 23:15:57 &#43;0600</pubDate>
@@ -93,6 +83,14 @@ C# Code is Easy to Read Reading code is a big part of programming. C# is known f
     <author>Intisar Bin Naim</author>
     <guid>https://intisarbnaim.com/cs-01-journey-starts/</guid>
     <description><![CDATA[Before We Start A while ago, I tried teaching one of my junior brothers how to program because he wanted to make games with Unity. I know C# pretty well, so we started with that. But he really wanted all the learning materials to be in Bangla and very straight to the point. I usually like to explain things in detail, but I could tell he didn&rsquo;t enjoy that much.]]></description>
+</item>
+<item>
+    <title>Klatt Media Group - Brochure</title>
+    <link>https://intisarbnaim.com/klatt-media-group_brochure/</link>
+    <pubDate>Mon, 12 Sep 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/klatt-media-group_brochure/</guid>
+    <description><![CDATA[Preview ]]></description>
 </item>
 </channel>
 </rss>
