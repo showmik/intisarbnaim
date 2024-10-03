@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Intisar Bin Naim</title>
-    <link>https://example.org/tags/css/</link>
+    <link>https://intisarbnaim.netlify.app/tags/css/</link>
     <description>Recent content in Css on Intisar Bin Naim</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
     <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
     <lastBuildDate>Wed, 10 May 2023 20:07:05 +0600</lastBuildDate>
-    <atom:link href="https://example.org/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://intisarbnaim.netlify.app/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css and ruby pst</title>
-      <link>https://example.org/posts/postc2/</link>
+      <link>https://intisarbnaim.netlify.app/posts/postc2/</link>
       <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
-      <guid>https://example.org/posts/postc2/</guid>
+      <guid>https://intisarbnaim.netlify.app/posts/postc2/</guid>
       <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
     </item>
     <item>
       <title>learn css super fast!!</title>
-      <link>https://example.org/posts/postc7/</link>
+      <link>https://intisarbnaim.netlify.app/posts/postc7/</link>
       <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
-      <guid>https://example.org/posts/postc7/</guid>
+      <guid>https://intisarbnaim.netlify.app/posts/postc7/</guid>
       <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
     </item>
   </channel>
