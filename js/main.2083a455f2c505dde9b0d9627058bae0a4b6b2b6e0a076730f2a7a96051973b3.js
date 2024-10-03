@@ -1,0 +1,1 @@
+(()=>{document.addEventListener("DOMContentLoaded",function(){if(typeof renderMathInElement=="function")try{renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1}]})}catch(e){console.error("Error rendering math:",e)}else console.warn("renderMathInElement function is not available.")});})();

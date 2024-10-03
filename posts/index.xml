@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Intisar Bin Naim</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Intisar Bin Naim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+    <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
+    <lastBuildDate>Thu, 03 Oct 2024 17:34:23 +0600</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Oct 2024 17:34:23 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the test post! This post aims to test various features in the Hugo setup including admonitions, code highlighting, and Markdown formatting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;&#xA;&lt;h3 id=&#34;example-code-block&#34;&gt;Example Code Block&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;greet&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;greet&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hugo&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;inline-code-example&#34;&gt;Inline Code Example&lt;/h3&gt;&#xA;&lt;p&gt;You can use inline code like this: &lt;code&gt;const message = &amp;quot;Hello, World!&amp;quot;;&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tags-and-categories&#34;&gt;Tags and Categories&lt;/h2&gt;&#xA;&lt;p&gt;This post includes tags and categories for testing purposes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: &lt;code&gt;test&lt;/code&gt;, &lt;code&gt;features&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>css and ruby pst</title>
+      <link>https://example.org/posts/postc2/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc2/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc10/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc10/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc11/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc11/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc12/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc12/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc13/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc13/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc14/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc14/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc15/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc15/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc16/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc16/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc17/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc17/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc18/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc18/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc19/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc19/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc20/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc20/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc4/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc4/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc6/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc6/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc8/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc8/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dockerfiles used to deploy Astro and PocketBase on Railway</title>
+      <link>https://example.org/posts/postc9/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc9/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java files</title>
+      <link>https://example.org/posts/postc5/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc5/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>learn css super fast!!</title>
+      <link>https://example.org/posts/postc7/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc7/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pikachu plays football</title>
+      <link>https://example.org/posts/postc3/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postc3/</guid>
+      <description>&lt;p&gt;HLDSJFLSDJf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Browse the Web More Quickly and Securely</title>
+      <link>https://example.org/posts/posta/</link>
+      <pubDate>Mon, 12 Sep 2022 10:09:02 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/posta/</guid>
+      <description>&lt;p&gt;The internet has become a part of our existence now. The fact that you are reading this article is also because of the internet. An internet connection, as well as a browser, is necessary to browse the internet. Today I&amp;rsquo;ll talk about these browsers and show how you can use the internet more quickly and safely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;selecting-a-browser&#34;&gt;Selecting a Browser&lt;/h2&gt;&#xA;&lt;p&gt;The first step is to select a browser. Yes, I know you are already using a one, be it Google Chrome, Mozilla&amp;rsquo;s Firefox, or any other browser. But I would suggest you use the &lt;a href=&#34;https://brave.com/&#34;&gt;Brave Browser&lt;/a&gt;. I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Furigana Tool</title>
+      <link>https://example.org/posts/postb/</link>
+      <pubDate>Wed, 01 Sep 2021 20:13:57 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Furigana Tool&lt;/strong&gt; automates the process of writing HTML code for Furigana with &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby&#34;&gt;ruby&lt;/a&gt; syntax. It uses a modified version of the &lt;a href=&#34;https://github.com/helephant/Gem&#34;&gt;Gem&lt;/a&gt; library and adds a User Interface to it.&lt;/p&gt;&#xA;&lt;p&gt;This tool was designed to work in conjunction with the &lt;a href=&#34;https://intisarbnaim.com/html-table-generator/&#34;&gt;HTML Table Generator&lt;/a&gt; which I created for another project.&lt;/p&gt;&#xA;&lt;a href=&#34;https://example.com&#34; &#xD;&#xA;   &#xD;&#xA;   &#xD;&#xA;   &#xD;&#xA;   target=&#34;Visit Example&#34;&gt;&#xD;&#xA;   Click Here&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is block math:&#xA;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;This is inline math: $a^2 + b^2 = c^2$.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ruby-syntax&#34;&gt;The Ruby Syntax&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters. This kind of annotation is often used in Japanese publications.&amp;rdquo; — W3Schools&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

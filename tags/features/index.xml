@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Intisar Bin Naim</title>
+    <link>https://example.org/tags/features/</link>
+    <description>Recent content in Features on Intisar Bin Naim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+    <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
+    <lastBuildDate>Thu, 03 Oct 2024 17:34:23 +0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Oct 2024 17:34:23 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the test post! This post aims to test various features in the Hugo setup including admonitions, code highlighting, and Markdown formatting.&lt;/p&gt;&#xA;&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;&#xA;&lt;h3 id=&#34;example-code-block&#34;&gt;Example Code Block&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;greet&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;):&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;!&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;greet&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Hugo&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;inline-code-example&#34;&gt;Inline Code Example&lt;/h3&gt;&#xA;&lt;p&gt;You can use inline code like this: &lt;code&gt;const message = &amp;quot;Hello, World!&amp;quot;;&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tags-and-categories&#34;&gt;Tags and Categories&lt;/h2&gt;&#xA;&lt;p&gt;This post includes tags and categories for testing purposes.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: &lt;code&gt;test&lt;/code&gt;, &lt;code&gt;features&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

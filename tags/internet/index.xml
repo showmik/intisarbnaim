@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Intisar Bin Naim</title>
+    <link>https://example.org/tags/internet/</link>
+    <description>Recent content in Internet on Intisar Bin Naim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+    <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
+    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Browse the Web More Quickly and Securely</title>
+      <link>https://example.org/posts/posta/</link>
+      <pubDate>Mon, 12 Sep 2022 10:09:02 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/posta/</guid>
+      <description>&lt;p&gt;The internet has become a part of our existence now. The fact that you are reading this article is also because of the internet. An internet connection, as well as a browser, is necessary to browse the internet. Today I&amp;rsquo;ll talk about these browsers and show how you can use the internet more quickly and safely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;selecting-a-browser&#34;&gt;Selecting a Browser&lt;/h2&gt;&#xA;&lt;p&gt;The first step is to select a browser. Yes, I know you are already using a one, be it Google Chrome, Mozilla&amp;rsquo;s Firefox, or any other browser. But I would suggest you use the &lt;a href=&#34;https://brave.com/&#34;&gt;Brave Browser&lt;/a&gt;. I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Intisar Bin Naim</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Intisar Bin Naim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+    <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
+    <lastBuildDate>Thu, 03 Oct 2024 17:34:23 +0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Features</title>
+      <link>https://example.org/tags/features/</link>
+      <pubDate>Thu, 03 Oct 2024 17:34:23 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://example.org/tags/test/</link>
+      <pubDate>Thu, 03 Oct 2024 17:34:23 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://example.org/tags/css/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://example.org/tags/html/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://example.org/tags/java/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nextx</title>
+      <link>https://example.org/tags/nextx/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/nextx/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pokemon</title>
+      <link>https://example.org/tags/pokemon/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/pokemon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruby</title>
+      <link>https://example.org/tags/ruby/</link>
+      <pubDate>Wed, 10 May 2023 20:07:05 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/ruby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet</title>
+      <link>https://example.org/tags/internet/</link>
+      <pubDate>Mon, 12 Sep 2022 10:09:02 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japanese</title>
+      <link>https://example.org/tags/japanese/</link>
+      <pubDate>Wed, 01 Sep 2021 20:13:57 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/tags/japanese/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

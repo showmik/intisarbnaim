@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japanese on Intisar Bin Naim</title>
+    <link>https://example.org/tags/japanese/</link>
+    <description>Recent content in Japanese on Intisar Bin Naim</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+    <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster>
+    <lastBuildDate>Wed, 01 Sep 2021 20:13:57 +0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Furigana Tool</title>
+      <link>https://example.org/posts/postb/</link>
+      <pubDate>Wed, 01 Sep 2021 20:13:57 +0600</pubDate><author>intisarbnaim@gmail.com (Intisar Bin Naim)</author>
+      <guid>https://example.org/posts/postb/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Furigana Tool&lt;/strong&gt; automates the process of writing HTML code for Furigana with &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby&#34;&gt;ruby&lt;/a&gt; syntax. It uses a modified version of the &lt;a href=&#34;https://github.com/helephant/Gem&#34;&gt;Gem&lt;/a&gt; library and adds a User Interface to it.&lt;/p&gt;&#xA;&lt;p&gt;This tool was designed to work in conjunction with the &lt;a href=&#34;https://intisarbnaim.com/html-table-generator/&#34;&gt;HTML Table Generator&lt;/a&gt; which I created for another project.&lt;/p&gt;&#xA;&lt;a href=&#34;https://example.com&#34; &#xD;&#xA;   &#xD;&#xA;   &#xD;&#xA;   &#xD;&#xA;   target=&#34;Visit Example&#34;&gt;&#xD;&#xA;   Click Here&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&#xA;&lt;p&gt;This is block math:&#xA;$$&#xA;E = mc^2&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;This is inline math: $a^2 + b^2 = c^2$.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-ruby-syntax&#34;&gt;The Ruby Syntax&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters. This kind of annotation is often used in Japanese publications.&amp;rdquo; — W3Schools&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
